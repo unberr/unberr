@@ -1,9 +1,5 @@
 <div align="center">
 
-# Vlad David
-
-## About me
-
 I'm David, a developer from Râmnicu Sărat, Buzău, Romania. I'm passionate about understanding real stuff, no bs.
 
 ## Interests
