@@ -2,12 +2,6 @@
 
 # Vlad David
 
-**Just below average.**
-
-</div>
-
----
-
 ## About me
 
 I'm David, a developer from Râmnicu Sărat, Buzău, Romania. I'm passionate about understanding real stuff, no bs.
