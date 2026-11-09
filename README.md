@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**unberr/unberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vlad David
 
-Here are some ideas to get you started:
+**Just below average.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## About me
+
+I'm David, a developer from Râmnicu Sărat, Buzău, Romania. I'm passionate about understanding real stuff, no bs.
+
+## Interests
+
+- **Security research:** web security and network security
+- **Reverse engineering:** currently learning
+- **Systems programming:** low-level programming and backend development
+- **Network defense:** both offensive and defensive parts of ddosing ( ethically )
+
+## Languages
+
+`C` · `C++` · `Python` · `Rust` · `Assembly`
+
+## What I'm working toward
+
+I’m always learning new stuff, and staying in groups where I have things to learn from.
+
+---
+
+<div align="center">
+
+*Living inside your dreams.*
+
+</div>
