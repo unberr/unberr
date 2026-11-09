@@ -8,10 +8,10 @@ I'm David, a developer from Râmnicu Sărat, Buzău, Romania. I'm passionate abo
 
 ## Interests
 
- **Security research:** web security and network security
- **Reverse engineering:** currently learning
- **Systems programming:** low-level programming and backend development
- **Network defense:** both offensive and defensive parts of ddosing ( ethically )
+- **Security research:** web security and network security
+- **Reverse engineering:** currently learning
+- **Systems programming:** low-level programming and backend development
+- **Network defense:** both offensive and defensive parts of ddosing ( ethically )
 
 ## Languages
 
